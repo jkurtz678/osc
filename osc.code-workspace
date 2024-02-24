@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../include"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdexcept": "cpp",
+			"memory": "cpp",
+			"cstddef": "cpp"
+		}
+	}
+}

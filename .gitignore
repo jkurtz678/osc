@@ -1,0 +1,10 @@
+build
+bin
+out
+.cache
+.idea
+.vs
+.vscode
+
+.DS_Store
+imgui.ini
